@@ -9,4 +9,4 @@ The project is not intended to be usable beyond code examination.
 ---
 
 ## Engine Version
-Developed with *Unity 2022.3.55f1*.
+Developed with **Unity 2022.3.55f1**.
